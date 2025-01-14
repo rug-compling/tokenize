@@ -39,4 +39,4 @@ Then, try again.
 
 ## Docs
 
- * [package help](http://godoc.org/github.com/rug-compling/tokenize)
+ * [package help](https://pkg.go.dev/github.com/rug-compling/tokenize)
