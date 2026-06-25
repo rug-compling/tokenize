@@ -8,9 +8,4 @@ wat:
 
 waar:
 
-- werk: `/net/corpora/nlwiki/20240620/tokenize/`
-
-
-afhankelijk van tokenize:
-
-- `~/alfa/site/mv/bin/go.mod`
+- werk: `/net/aps/opt/gopkg/github.com/rug-compling/tokenize/`
